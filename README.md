@@ -4,6 +4,7 @@
 
 - [Base](base)
 - [Point](point)
+- [Additional assignment](addtional)
 
 ## Base
 
@@ -18,13 +19,11 @@
 
 1. html は階層が問題なくできていること、form が作られていること
    - form, input, label, select, option, button の使用
-2. type="text"または type="radio"の場合は label のクリックでも active, focus になること
-   - sample コードではコピペ防止のために電話番号のラベルとメールアドレスの input に紐付け
-3. css は基本的な文字サイズ、色、幅、余白の使い分けができていること
-4. :active, :focus, :hover が使われていること
-5. sample コードには課題としては不要なコードとして select, input, button の装飾を入れる
+2. css は基本的な文字サイズ、色、幅、余白の使い分けができていること
+3. :active, :focus, :hover が使われていること
+4. sample コードには課題としては不要なコードとして select, input, button の装飾を入れる
    - こちらもコピペ防止のため
-   - 課題の前提として検証ツールでのコードの確認は可とするが不要なコードが入っている場合はコピペと判断し不合格？
+   - 課題の前提として検証ツールでのコードの確認は可とするが不要なコードが入っている場合はコピペと判断
 
 ## Additional assignment
 
